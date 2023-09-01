@@ -1,0 +1,18 @@
+Codec 코덱
+
+: 음성 또는 영상을 압축하기 위한 기술.
+: 음성/영상 신호를 디지털 신호로 변환하는 코더와
+그 반대로 변환시켜주는 디코더의 기능을 갖춘 기술로, 음성이나 비디오 데이터를 컴퓨터가 처리할 수 있게 디지털로 바꿔주고, 그 데이터를 컴퓨터 사용자가 알 수 있게 모니터에 본래대로 재생시켜 주기도 하는 소프트웨어이다.
+: 파일을 작게 해주는 것이 인코딩/ 본래대로 재생하는 것을 디코딩이라 한다.
+
+종류
+1. 동영상 코덱
+- MPEG-4 ASP : 3ivx, DivX, FFmpeg MPEG-4, HDX4, Xvid
+- H.264/MPEG-4 AVC : CoreAVC, HDX4, QuickTime H.264, x264
+- 비손실 : CorePNG, FFV1, Huffyuv, Lagarith, MSU 비손실
+- 기타 : 시네팩, Dirac, Indeo, VP3, VP7, Pixlet, 스노우, Tarkin, Theora, WMV
+
+2. 오디오 코덱
+- 일반 : ADPCM, ATRAC, 돌비 디지털, Musepack, TwinVQ, Vorbis, WMA
+- 발음/목소리 : iLBC, IMBE, iSAC, QCELP, Speex
+- 비손실 : 애플 무손실, 돌비 트루HD, DTS-HD 마스터 오디오, OptimFROG, FLAC, APE, TTA, WavPack, WMA 무손실
